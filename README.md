@@ -3,16 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am AI Engineer and Developer from India.
 
+took 3 months to realize how good it can be if i start my coding journey at the age of 3 years.
 
-Experienced Data Scientist | Python Developer | Business Analyst Passionate about leveraging data-driven insights to fuel business growth and innovation. Currently spearheading data science initiatives at Wheelocity, where I apply a diverse skill set in machine learning, Python development, and business analysis. Professional Journey: 
 
-🚀 Data Scientist at Wheelocity : Transforming raw data into actionable intelligence, I lead data science projects to unlock valuable insights and drive strategic decision-making. Proficient in machine learning algorithms and data visualization tools, I am dedicated to delivering impactful solutions. 
-
-🐍 Python Developer at Absolutdata Research and Analytics: Contributed to the development of robust Python applications, enhancing efficiency and facilitating data-driven decision-making processes. Applied Python expertise to tackle complex challenges in data processing and analysis. 
-
-📈 Business Analyst at Novac Technology Solutions: Played a pivotal role in translating business needs into technical solutions. Conducted in-depth analyses to identify opportunities for process improvement and efficiency gains. Skills: - Python Development - Machine Learning - Power BI - MySQL - Data Analysis - Business Intelligence.
-
-In addition to my role at Novac, I am also the founder of 11amcoder, a YouTube channel that aims to educate and entertain the audience on machine learning and artificial intelligence topics. I create and upload videos on various concepts, applications, and trends in the field, such as deep learning, computer vision, natural language processing, and quantum computing. I use my passion, creativity, and aptitude to produce engaging and informative content that reaches thousands of viewers and subscribers. 
+I am also the founder of 11amcoder, a YouTube channel that aims to educate and entertain the audience on machine learning and artificial intelligence topics. I create and upload videos on various concepts, applications, and trends in the field, such as deep learning, computer vision, natural language processing, and quantum computing. I use my passion, creativity, and aptitude to produce engaging and informative content that reaches thousands of viewers and subscribers. 
 
 Why Connect With Me: I am passionate about exploring the intersection of technology, data, and business strategy. Whether it's optimizing processes, developing predictive models, or crafting data visualizations, I thrive on turning data into actionable insights. Let's connect to discuss the latest trends in data science, share insights, and explore potential collaboration opportunities.
 
