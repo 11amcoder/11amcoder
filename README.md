@@ -31,9 +31,10 @@ Why Connect With Me: I am passionate about exploring the intersection of technol
 * ⚡  Some write code. Others swing through the city. I do both. 🕸️
 
 <a href="https://www.github.com/11amcoder" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/11amcoder?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/11amcoder" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/11amcoder?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
+                  src="https://img.shields.io/github/followers/11amcoder?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.x.com/11amcoder" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitter/follow/11amcoder?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917&cacheSeconds=3600" /></a>
+    
 
 ### Skills
 
