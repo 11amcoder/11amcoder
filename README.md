@@ -3,14 +3,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am AI Engineer and Developer from India.
 
-It took 3 months for me to realize how good it can be if i could have started my coding journey at the age of 3 years.
+It took years for me to realize how good it can be if i could have started my coding journey at the age of 3 years.
 
 
 I am also the founder of 11amcoder, a YouTube channel that aims to educate and entertain the audience on machine learning and artificial intelligence topics. I create and upload videos on various concepts, applications, and trends in the field, such as deep learning, computer vision, natural language processing, and quantum computing. I use my passion, creativity, and aptitude to produce engaging and informative content that reaches thousands of viewers and subscribers. 
 
 Why Connect With Me: I am passionate about exploring the intersection of technology, data, and business strategy. Whether it's optimizing processes, developing predictive models, or crafting data visualizations, I thrive on turning data into actionable insights. Let's connect to discuss the latest trends in data science, share insights, and explore potential collaboration opportunities.
 
-* 🌍  I'm based in Andhra Pradesh, India*
+* 🌍  I'm based in Hyderabad, India*
   
 * ✉️  You can contact me at [chillbees001@gmail.com](mailto:chillbees001@gmail.com)*
   
