@@ -6,7 +6,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div>
 
 
-
 I am an AI Engineer and Developer from India.
 
 I am also the founder of 11amcoder, a YouTube channel that aims to educate and entertain the audience on machine learning and artificial intelligence topics. I create and upload videos on various concepts, applications, and trends in the field, such as deep learning, computer vision, natural language processing, and quantum computing. I use my passion, creativity, and aptitude to produce engaging and informative content that reaches thousands of viewers and subscribers. 
@@ -32,8 +31,13 @@ Why Connect With Me: I am passionate about exploring the intersection of technol
 
 <a href="https://www.github.com/11amcoder" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/11amcoder?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<a href="https://www.x.com/11amcoder" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/11amcoder?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917&cacheSeconds=3600" /></a>
+<a href="https://www.x.com/11amcoder" target="_blank" rel="noreferrer"><img 
+                  src="https://img.shields.io/twitter/follow/11amcoder?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917&cacheSeconds=3600" /></a>
+
+<!-- This is a single-line comment -->
+            
+
+
     
 
 ### Skills
@@ -55,7 +59,10 @@ Why Connect With Me: I am passionate about exploring the intersection of technol
 
 <a href="http://www.github.com/11amcoder"><img src="https://github-readme-streak-stats.herokuapp.com/?user=11amcoder&stroke=0891b2&background=000000&ring=ffffff&fire=ffffff&currStreakNum=0891b2&currStreakLabel=ffffff&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
-<a href="http://www.github.com/11amcoder"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=11amcoder&bg_color=000000&color=0891b2&line=0891b2&point=0891b2&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/11amcoder" style="text-decoration: none; color: #ffffff;">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=11amcoder&title_color=ffffff&text_color=0891b2&icon_color=0891b2&bg_color=000000&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>
+
 
 <a href="https://github.com/11amcoder" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11amcoder&langs_count=10&title_color=ffffff&text_color=0891b2&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
