@@ -6,9 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div>
 
 
-I am an AI Engineer and Developer from India.
-
-I am also the founder of 11amcoder, a YouTube channel that aims to educate and entertain the audience on machine learning and artificial intelligence topics. I create and upload videos on various concepts, applications, and trends in the field, such as deep learning, computer vision, natural language processing, and quantum computing. I use my passion, creativity, and aptitude to produce engaging and informative content that reaches thousands of viewers and subscribers. 
+hey
 
 <div style="float: left; margin: 0 0 10px 10px;">
   <img src="https://github.com/user-attachments/assets/34f8c935-0db9-4fcb-acf0-4b56a8dd9d01" alt = "New GIF" width="600" />
